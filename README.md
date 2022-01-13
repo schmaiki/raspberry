@@ -2,5 +2,6 @@
 
 ### Versuchsaufbau: 
 
-![[Bild1.png]]
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](https://github.com/schmaiki/raspberry/blob/main/Bild1.png)
+
+![alt text](https://github.com/schmaiki/raspberry/blob/main/Bild.png)
